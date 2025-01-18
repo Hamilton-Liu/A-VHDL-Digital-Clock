@@ -79,6 +79,6 @@
 
 ##  **项目参考**
 [1] 鲍可进、赵念强、赵不贿.数字逻辑电路设计（第4版）.北京：清华大学出版社，2022.\
-[2] CNBlog 作者 漫舞八月（Mount256）https://www.cnblogs.com/Mount256/p/15628625.html#52-心得体会\
+[2] CNBlog 作者 漫舞八月（Mount256）https://www.cnblogs.com/Mount256/p/15628625.html#52-心得体会 \
 [3] Github项目 VHDL_digital_clock
 作者Luxiyu https://github.com/Luxiyu/VHDL_digital_clock
